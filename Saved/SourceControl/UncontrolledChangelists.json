@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/BP_MyCharacterTut.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/RP/IGHRBEZMUEJQ8DFAOWGEXT.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/PlayerTutBlendSpace.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/AP_PlayerTut.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Breathing_Idle__1_.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Ch32_1001_Diffuse.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Ch32_1001_Glossiness.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Ch32_1001_Normal.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Ch32_1001_Specular.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Ch32_body.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Ch32_nonPBR.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Ch32_nonPBR_Anim.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Ch32_nonPBR_PhysicsAsset.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Ch32_nonPBR_Skeleton.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Jump.uasset",
+				"C:/Users/kisha/OneDrive/Documents/Unreal Projects/KishanGDW5tut/Content/Characters/MixamoAssests/Slow_Run.uasset"
+			]
+		}
+	]
+}
